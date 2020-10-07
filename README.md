@@ -1,1 +1,1 @@
-# This is the porject folder
+# This is the project folder
